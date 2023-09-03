@@ -1,0 +1,19 @@
+{
+	"battery_voltage": 22.8,
+	"speed_horizontal": 12.5,
+	"speed_up": 3.1,
+	"speed_down": 3,
+	"power_horizontal": 486.2,
+	"power_up": 899.04,
+	"power_down": 309.17,
+	"power_hover": 545.8,
+	"hover_time": 0,
+	"coords": [
+		{"x": 0, "y": 0, "z": 0},
+		{"x": 10, "y": 200, "z": 300},
+		{"x": 200, "y": 450, "z": 12},
+		{"x": 400, "y": 460, "z": 350},
+		{"x": 350, "y": 240, "z": 14},
+		{"x": 450, "y": 100, "z": 200}
+	]
+}
